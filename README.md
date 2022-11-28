@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/marklendzholdoshev/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
- <a href="mailto:marklen86@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/-marklen86@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
+ <a href="mailto:marklen86@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
  <p align='center'>

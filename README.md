@@ -1,4 +1,4 @@
-### Hi 👋 my name is Marklen!
+### Hi 👋 my name is Marklen! I am an experienced Java Back-End Developer with a background in developing and maintaining scalable applications. Participated in all stages of software product development and skilled in working in Agile environments. Adept at collaborating with cross-functional teams to deliver quality software solutions. Former financial analyst/risk manager in the banking sector.
 
 <p align = 'center'>
  <a href="https://github-readme-stats.vercel.app/api?username=dzholdoshev&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=dzholdoshev&show_icons=true&count_private=true" /></a>

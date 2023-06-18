@@ -2,7 +2,9 @@
 ### Participated in all stages of software product development and skilled in working in Agile environments. Adept at collaborating with cross-functional teams to deliver quality software solutions. 
 ### Former financial analyst/risk manager in the banking sector.
 
-<img align="center" alt="Coding" width="400" src="https://dev.to/mindninjax/frontend-backend-or-full-stack-which-one-you-love-most-364p">
+
+
+![](github.com/Dzholdoshev/files/blob/main/2zs4hb7x23zv5cgiro7z.webp)
 
 <p align = 'center'>
  <a href="https://github-readme-stats.vercel.app/api?username=dzholdoshev&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=dzholdoshev&show_icons=true&count_private=true" /></a>

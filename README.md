@@ -4,7 +4,7 @@
 
 
 
-![](github.com/Dzholdoshev/files/blob/main/2zs4hb7x23zv5cgiro7z.webp)
+![](https://github.com/Dzholdoshev/files/blob/main/2zs4hb7x23zv5cgiro7z.webp)
 
 <p align = 'center'>
  <a href="https://github-readme-stats.vercel.app/api?username=dzholdoshev&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=dzholdoshev&show_icons=true&count_private=true" /></a>

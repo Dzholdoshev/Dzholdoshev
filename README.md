@@ -10,7 +10,7 @@
  <a href="https://github-readme-stats.vercel.app/api?username=dzholdoshev&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=dzholdoshev&show_icons=true&count_private=true" /></a>
 <a href="https://github.com/dzholdoshev/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzholdoshev&layout=compact" /></a>
  </p>
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://gpvc.arturio.dev/Dzholdoshev"><img src="https://gpvc.arturio.dev/Dzholdoshev"  style="max-width: 100%;"></a>
+
 <p align='center'>
   &nbsp;&nbsp; 📫  How to reach me:
  
